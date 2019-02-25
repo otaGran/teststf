@@ -45,6 +45,7 @@
     "chalk": "~1.1.1",
     "compression": "^1.5.2",
     "cookie-session": "^2.0.0-alpha.1",
+    "cropperjs": "^1.4.3",
     "csurf": "^1.7.0",
     "debug": "^2.2.0",
     "eventemitter3": "^1.2.0",
